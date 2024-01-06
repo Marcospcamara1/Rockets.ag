@@ -1,0 +1,16 @@
+{
+  "name": "rockets.ag",
+  "version": "1.0.0",
+  "description": "Estou aprendo a programar e crie este repositório de teste para iniciar meu estudo",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
